@@ -1,0 +1,15 @@
+Unloading 0 Sydney         
+Unloading 0 B          
+Unloading 0 C           
+Unloading 0 D       
+Unloading 0 E  
+Cost 999 Sydney E        
+Cost 200 Sydney B
+Cost 200 E C         
+Cost 240 D B       
+Cost 480 C D       
+Cost 440 E D    
+Cost 400 C Sydney     
+Job D B           
+Job E B    #job is not connected by an edge      
+Job E C           

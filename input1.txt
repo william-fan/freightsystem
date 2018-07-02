@@ -1,0 +1,16 @@
+Unloading 10 Sydney         
+Unloading 10 B          
+Unloading 10 C           
+Unloading 10 D       
+Unloading 10 E  
+Cost 999 Sydney E        
+Cost 200 Sydney B
+Cost 200 E C         
+Cost 240 D B     
+Cost 200 X B   #Node not specified  
+Cost 480 C D       
+Cost 440 E D    
+Cost 400 C Sydney     
+Job D B           
+Job E D           
+Job E C           
